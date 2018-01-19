@@ -1,5 +1,9 @@
 = wsclient-cloudstore-doc
 
+Sources of Product Documentation for wsclient-cloudstore-poc
+
+http://github-pages.ucl.ac.uk/wsclient-cloudstore-doc/
+
 == Requirements
 
 - Ruby
