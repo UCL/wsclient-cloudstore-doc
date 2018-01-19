@@ -1,10 +1,11 @@
 = wsclient-cloudstore-poc
 David Guzman <https://github.com/david-guzman[@david-guzman]>
-:revnumber: {project-version}
+:revnumber: 1.0-draft
 :revdate: 12.01.2018
 :revremark: First draft
 :toc: macro
 :toc-title: Contents
+:icons: font
 
 Java EE Timer-based JAX-RS client to cloud file store application to facilitate analysis of text content obtained from APIs (proof of concept).
 

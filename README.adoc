@@ -2,12 +2,14 @@
 
 == Requirements
 
+- Ruby
 - JDK
 - Graphviz
 
 == Building
 
 ....
+gem install bundler
 bundle
 rake clean html5
 ....
