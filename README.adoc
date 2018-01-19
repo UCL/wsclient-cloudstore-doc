@@ -1,1 +1,7 @@
 = wsclient-cloudstore-doc
+
+== Building
+
+...
+asciidoctor -b html5 -r asciidoctor-diagram -a stylesheet=github.css -D docs src/index.adoc
+...
