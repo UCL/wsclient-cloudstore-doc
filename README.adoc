@@ -1,5 +1,10 @@
 = wsclient-cloudstore-doc
 
+== Requirements
+
+- JDK
+- Graphviz
+
 == Building
 
 ...
